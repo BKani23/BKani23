@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on my [Portfolio Website](https://github.com/BKani23/Portfolio-Website)
 - 🌱 I’m currently learning **React Native, TypeScript, NodeJS**
 - 💬 Ask me about **ReactJS, JavaScript, SQL Databases**
-- 📫 How to reach me: **bkani2304@gmail.com**
 - ⚡ Fun fact: I experiment with weird libraries just for the thrill.
 
 ---
