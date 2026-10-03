@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kani Bulelani</h1>
+<h1 align="center">Hi  👋, I'm Kani Bulelani</h1>
 <h3 align="center">A recent BIT Graduate with a strong passion for developing full stack applications</h3>
 
 <p align="left"> 
